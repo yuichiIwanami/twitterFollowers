@@ -1,0 +1,11 @@
+# authentication
+ConsumerKey = "xxxxxxxxxxxxxxxxx"
+ConsumerSecret = "xxxxxxxxxxxxxxxxx"
+AccessToken = "xxxxxxxxxxxxxxxxx"
+AccessTokenSecret = "xxxxxxxxxxxxxxxxx"
+
+# request info
+OwnerScreenName = "xxxxxxxxxxxxxxxxx"
+ListName = "xxxxxxxxxxxxxxxxx"
+MaxCount = 200
+BlackList = ["xxxxxxxxxxxxxxxxx"]
